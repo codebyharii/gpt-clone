@@ -36,4 +36,4 @@ README.md
 
 - No dependencies or build tools required
 - Responses are mocked locally — not connected to any API
-- To connect a real AI, replace the `getResponse()` function with an API call
+- To connect a real AI, replace the `getResponse()` function with an API call .
